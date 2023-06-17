@@ -1,0 +1,15 @@
+C:\Users\yegan\Downloads\TaskTrim\bin\Debug\net6.0\TaskTrim.exe
+C:\Users\yegan\Downloads\TaskTrim\bin\Debug\net6.0\TaskTrim.deps.json
+C:\Users\yegan\Downloads\TaskTrim\bin\Debug\net6.0\TaskTrim.runtimeconfig.json
+C:\Users\yegan\Downloads\TaskTrim\bin\Debug\net6.0\TaskTrim.dll
+C:\Users\yegan\Downloads\TaskTrim\bin\Debug\net6.0\TaskTrim.pdb
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\TaskTrim.csproj.AssemblyReference.cache
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\TaskTrim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\TaskTrim.AssemblyInfoInputs.cache
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\TaskTrim.AssemblyInfo.cs
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\TaskTrim.csproj.CoreCompileInputs.cache
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\TaskTrim.dll
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\refint\TaskTrim.dll
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\TaskTrim.pdb
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\TaskTrim.genruntimeconfig.cache
+C:\Users\yegan\Downloads\TaskTrim\obj\Debug\net6.0\ref\TaskTrim.dll
